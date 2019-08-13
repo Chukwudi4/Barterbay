@@ -1,5 +1,5 @@
 package com.example.barterbay
-
+/*
 import android.content.Context
 import android.graphics.ImageFormat
 import android.graphics.SurfaceTexture
@@ -123,4 +123,4 @@ class CameraActivity: AppCompatActivity(), View.OnClickListener{
         }
 
     }
-}
+}*/

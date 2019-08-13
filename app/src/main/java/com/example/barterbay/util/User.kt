@@ -14,7 +14,15 @@ class User(_username: String = "john"){
         return false
     }
 
-    private fun setSession(){
+    fun getUsername(): String{
+        return username
+    }
 
+    companion object {
+        fun setSession(){
+
+        }
+
+        var number = 1
     }
 }
